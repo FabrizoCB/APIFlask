@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Lucas",
+    "lastname": "Castro",
+    "age": 50,
+    "id": "3e5310d6-377a-4f7c-b33e-fa5b9662951f"
+  },
+  {
+    "name": "Maria",
+    "lastname": "Castro",
+    "age": 30,
+    "id": "af3cf5a7-fc0f-4685-82f4-8bee5dd76eae"
+  },
+  {
+    "name": "Marta",
+    "lastname": "Martinez",
+    "age": 28,
+    "id": "5f2f587e-9381-4118-81db-445c96a6400c"
+  }
+]
